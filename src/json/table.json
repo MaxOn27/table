@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "purchase": "Purchase",
+      "date": "06/17/2020 at 7.13 PM PDT",
+      "paid": "120.00$",
+      "advocate": {
+        "email": "autouser23926@gmail.com",
+        "role": "Advocate"
+      },
+      "friend": {
+        "email": "fr58272@gmail.com",
+        "role": "friend"
+      },
+      "referralStatus": {
+        "status": "Pending",
+        "stage": "Passed fraud checks"
+      }
+    },
+    {
+      "purchase": "Purchase",
+      "date": "07/10/2020 at 4.05 AM PDT",
+      "paid": "100.00$",
+      "advocate": {
+        "email": "ad0379118142@gmail.com",
+        "role": "Advocate"
+      },
+      "friend": {
+        "email": "fr0379118141@gmail.com",
+        "role": "friend"
+      },
+      "referralStatus": {
+        "status": "Flagged",
+        "stage": "Marked as fraud"
+      }
+    },
+    {
+      "purchase": "Purchase",
+      "date": "06/09/2020 at 12.42 PM PDT",
+      "paid": "28.00$",
+      "advocate": {
+        "email": "ad56991@gmail.com",
+        "role": "Advocate"
+      },
+      "friend": {
+        "email": "fr94250@gmail.com",
+        "role": "friend"
+      },
+      "referralStatus": {
+        "status": "Approved",
+        "stage": "Passed fraud checks"
+      }
+    },
+    {
+      "purchase": "Purchase",
+      "date": "08/07/2020 at 4.20 AM PDT",
+      "paid": "100.00$",
+      "advocate": {
+        "email": "user.to.be.blocked92187@gmail.com",
+        "role": "Advocate"
+      },
+      "friend": {
+        "email": "user.to.be.blocked2682@gmail.com",
+        "role": "friend"
+      },
+      "referralStatus": {
+        "status": "Blocked",
+        "stage": "Marked as fraud"
+      }
+    },
+    {
+      "purchase": "Purchase",
+      "date": "06/09/2020 at 2.08 AM PDT",
+      "paid": "100.00$",
+      "advocate": {
+        "email": "ad0693677382@gmail.com",
+        "role": "Advocate"
+      },
+      "friend": {
+        "email": "fr0693677382@gmail.com",
+        "role": "friend"
+      },
+      "referralStatus": {
+        "status": "Voided",
+        "stage": "Marked as fraud"
+      }
+    }
+
+  ]
+}
